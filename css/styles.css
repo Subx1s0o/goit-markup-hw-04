@@ -248,7 +248,6 @@ main {
   background-color: #f4f4fd;
   border-radius: 4px;
   border: 1px solid #8e8f99;
-  padding: 24px 100px;
   margin-bottom: 8px;
 }
 
@@ -445,6 +444,6 @@ img {
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.box:hover .overlay {
+.portfolio:hover .overlay {
   transform: translateY(0);
 }

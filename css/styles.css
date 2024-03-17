@@ -253,7 +253,6 @@ main {
 
 .social-icons {
   display: flex;
-  margin-bottom: 32px;
   padding: 0 16px;
   gap: 24px;
   justify-content: center;
@@ -325,7 +324,6 @@ main {
 .team .container ul {
   display: flex;
   gap: 24px;
-  flex-wrap: wrap;
 }
 
 .team .container li {
